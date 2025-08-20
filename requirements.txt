@@ -1,0 +1,8 @@
+streamlit
+together
+PyPDF2
+pytesseract
+pandas
+matplotlib
+seaborn
+Pillow
