@@ -167,4 +167,4 @@ if st.session_state.file_processed:
         st.experimental_rerun()
 
 st.markdown("---")
-st.caption("Powered by Together AI, Llama-4-Maverick-17B, and Streamlit. [Source on GitHub](https://github.com/yourusername/your-repo)")
+st.caption("Powered by Together AI, Llama-4-Maverick-17B, and Streamlit. [Source on GitHub](https://github.com/satyammishraa/DataAnalyzerAgent)")
